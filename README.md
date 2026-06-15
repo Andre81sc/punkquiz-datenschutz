@@ -4,9 +4,9 @@ Stand: 15. Juni 2026
 
 ## 1. Verantwortlicher
 
-Andre Schmidt
-Potsdamer Straße 3
-59192 Bergkamen
+Andre Schmidt  
+Potsdamer Straße 3  
+59192 Bergkamen  
 E-Mail: <andre.schmidt.be@icloud.com>
 
 ## 2. Allgemeines
